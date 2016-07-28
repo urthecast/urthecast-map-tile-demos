@@ -1,0 +1,7 @@
+---
+name: How to Render Scenes on a Map
+authors:
+  - UrtheCast
+resources:
+   - https://npmcdn.com/leaflet@1.0.0-rc.2/dist/leaflet.js
+   - https://npmcdn.com/leaflet@1.0.0-rc.2/dist/leaflet.css
